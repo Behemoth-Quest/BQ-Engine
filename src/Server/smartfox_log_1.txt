@@ -1,0 +1,159 @@
+2022/11/29 19:57:13.785 - [ INFO ] [id: 11] (SmartFoxServer.bootH2Engine): Starting h2 engine...
+2022/11/29 19:57:13.992 - [ FINE ] [id: 11] (SmartFoxServer.bootH2Engine): Connection --> it.gotoandplay.smartfoxserver.db.DbManager@6a943f2b
+[ INFO ][ ExtensionHandler.createExtension ] Zone Extension [ zm ] created, for zone:zone_master
+[ INFO ][ Database.<init> ] Database connections initialized.
+[ INFO ][ WarzoneQueue.<init> ] WarzoneQueue intialized.
+[ INFO ][ ACGiveaway.<init> ] ACGiveaway event initialized.
+[ INFO ][ World.retrieveDatabaseObject ] Item objects retrieved.
+[ INFO ][ World.retrieveDatabaseObject ] Map objects retrieved.
+[ INFO ][ World.retrieveDatabaseObject ] Quest objects retrieved.
+[ INFO ][ World.retrieveDatabaseObject ] Shop objects retrieved.
+[ INFO ][ World.retrieveDatabaseObject ] Server settings retrieved.
+[ INFO ][ World.<init> ] World initialized.
+[ INFO ][ SmartFoxServer.setupTaskScheduler ] [TaskScheduler] ... started ::
+[ INFO ][ SmartFoxServer.run ] [BlueBoxHandler]... started :: 
+[ INFO ][ SmartFoxServer.run ] [EventWriter] ..... started :: 1 thread(s)
+[ INFO ][ SmartFoxServer.run ] [SystemHandler] ... started :: 1 thread(s)
+[ INFO ][ SmartFoxServer.run ] [ExtensionHandler]. started :: 1 thread(s)
+[ INFO ][ SmartFoxServer.run ] [DeadChannelsPolicy: strict]
+[ INFO ][ SmartFoxServer.run ] Server is up and running!
+[ FINE ][ Anu.handleInternalEvent ] System event: serverReady
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ WARNING ][ Room.removeUser ] Couldn't remove user: zueira:0, from room: faroff-1
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveInventory
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveInventory
+[ FINE ][ Stats.initDamage ] wSPD : 2.0
+[ FINE ][ Stats.initDamage ] wDMG : 36.0
+[ FINE ][ Stats.initDamage ] iRNG : 0.05
+[ FINE ][ Stats.initDamage ] tDMG : 36.0
+[ FINE ][ Anu.handleRequest ] Recieved request: afk
+[ FINE ][ Anu.handleRequest ] Processing request: afk
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveInventory
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveInventory
+[ FINE ][ Stats.initDamage ] wSPD : 2.0
+[ FINE ][ Stats.initDamage ] wDMG : 36.0
+[ FINE ][ Stats.initDamage ] iRNG : 0.05
+[ FINE ][ Stats.initDamage ] tDMG : 36.0
+[ FINE ][ Anu.handleRequest ] Recieved request: afk
+[ FINE ][ Anu.handleRequest ] Processing request: afk
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveInventory
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveInventory
+[ FINE ][ Stats.initDamage ] wSPD : 2.0
+[ FINE ][ Stats.initDamage ] wDMG : 36.0
+[ FINE ][ Stats.initDamage ] iRNG : 0.05
+[ FINE ][ Stats.initDamage ] tDMG : 36.0
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
+[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
+[ FINE ][ SmartFoxServer.canLogin ] User [ zueira ] logged in
+[ FINE ][ Anu.handleRequest ] Recieved request: firstJoin
+[ FINE ][ Anu.handleRequest ] Processing request: firstJoin
+[ FINE ][ Anu.handleInternalEvent ] System event: newRoom
+[ FINE ][ Anu.handleInternalEvent ] New room created: faroff-1
+[ FINE ][ Anu.handleInternalEvent ] System event: userJoin
+[ FINE ][ Anu.handleRequest ] Recieved request: cmd
+[ FINE ][ Anu.handleRequest ] Processing request: cmd
+[ FINE ][ Anu.handleRequest ] Recieved request: moveToCell
+[ FINE ][ Anu.handleRequest ] Processing request: moveToCell
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveUserDatas
+[ FINE ][ Anu.handleRequest ] Recieved request: retrieveInventory
+[ FINE ][ Anu.handleRequest ] Processing request: retrieveInventory
+[ FINE ][ Stats.initDamage ] wSPD : 2.0
+[ FINE ][ Stats.initDamage ] wDMG : 36.0
+[ FINE ][ Stats.initDamage ] iRNG : 0.05
+[ FINE ][ Stats.initDamage ] tDMG : 36.0
+[ FINE ][ Anu.handleRequest ] Recieved request: mv
+[ FINE ][ Anu.handleRequest ] Processing request: mv
+[ FINE ][ Anu.handleRequest ] Recieved request: mv
+[ FINE ][ Anu.handleRequest ] Processing request: mv
+[ FINE ][ Anu.handleRequest ] Recieved request: mv
+[ FINE ][ Anu.handleRequest ] Processing request: mv
+[ FINE ][ Anu.handleRequest ] Recieved request: afk
+[ FINE ][ Anu.handleRequest ] Processing request: afk
+[ FINE ][ Anu.handleInternalEvent ] System event: userLost
+[ FINE ][ Anu.handleInternalEvent ] System event: roomLost
+[ FINE ][ SmartFoxServer.lostConnectionTask ] User [ zueira ] removed
