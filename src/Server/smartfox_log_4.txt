@@ -1,7 +1,7 @@
-2022/11/29 17:31:50.623 - [ INFO ] [id: 11] (SmartFoxServer.bootH2Engine): Starting h2 engine...
-2022/11/29 17:31:51.058 - [ FINE ] [id: 11] (SmartFoxServer.bootH2Engine): Connection --> it.gotoandplay.smartfoxserver.db.DbManager@11e02484
+2022/12/03 04:43:07.923 - [ INFO ] [id: 11] (SmartFoxServer.bootH2Engine): Starting h2 engine...
+2022/12/03 04:43:08.157 - [ FINE ] [id: 11] (SmartFoxServer.bootH2Engine): Connection --> it.gotoandplay.smartfoxserver.db.DbManager@223ed270
 [ INFO ][ ExtensionHandler.createExtension ] Zone Extension [ zm ] created, for zone:zone_master
-[ INFO ][ Database.<init> ] Database connections initialized.
+[ INFO ][ Database.Hikari ] Database connections initialized.
 [ INFO ][ WarzoneQueue.<init> ] WarzoneQueue intialized.
 [ INFO ][ ACGiveaway.<init> ] ACGiveaway event initialized.
 [ INFO ][ World.retrieveDatabaseObject ] Item objects retrieved.
@@ -18,5 +18,3 @@
 [ INFO ][ SmartFoxServer.run ] [DeadChannelsPolicy: strict]
 [ INFO ][ SmartFoxServer.run ] Server is up and running!
 [ FINE ][ Anu.handleInternalEvent ] System event: serverReady
-[ FINE ][ Anu.handleInternalEvent ] System event: loginRequest
-[ SEVERE ][ Users.login ] NoResultException during login: null
